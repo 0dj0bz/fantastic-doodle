@@ -16,4 +16,4 @@ You'll use it twice in orientation:
 Add a line below introducing yourself — that edit is your first commit.
 
 - Doc Taco — your instructor. I teach databases and drink too much coffee.
-- Hi, I'm Rob. I'm a pilot. I can fly.
+- Hi, I'm Rob. I'm a developer. I can code.
